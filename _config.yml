@@ -1,0 +1,17 @@
+# Site settings
+title: blog.skorulis.com
+email: alex@skorulis.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog of the various bits and pieces I've done
+
+twitter_username: skorulis
+github_username:  skorulis
+timezone: Australia/Sydney
+
+# Build settings
+markdown: kramdown
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-23612990-1'
