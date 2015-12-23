@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "Getting started with libGDX"
-date:   2014-02-27 16:21:00
-categories: java
+date:   2014-02-27 10:21:00
 comments: true
 ---
-
 So today I created my first project with [LIBGDX]. Libgdx promised being able to deploy to iOS, android, desktop and webGL with the benefit that all the development is done on the desktop so no time is wasted deploying to devices or emulators. Once I installed all the [libgdx prerequisites] I tried to confirm that all platforms were building correctly. Desktop and HTML worked straight away, Android would not build initially because I had not downloaded the required version using the android SDK manager but worked afterwards. iOS built but would take some time to setup my provisioning so I decided to test it later. Since I had enough to test on the desktop and deploy anything I created to web for people to play with I decided to go straight to work and deal with android and iOS later.
 
 Since I wanted to build the game around 3D graphics I found a tutorial for [drawing a cube on the screen] which gave me a good starting point. The performance in WebGL seemed terrible but I’m hoping this is simply because it is a debug version. I’m going to leave this issue until a later date.
