@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding a new entity to the world in Minecraft"
 date:   2011-03-18 11:48:00
-categories: pixus
+categories: minecraft
 comments: true
 ---
 

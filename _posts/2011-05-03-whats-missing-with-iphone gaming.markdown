@@ -2,7 +2,7 @@
 layout: post
 title:  "What’s missing with iPhone gaming?"
 date:   2011-05-03 11:48:00
-categories: 
+categories: iOS
 comments: true
 ---
 

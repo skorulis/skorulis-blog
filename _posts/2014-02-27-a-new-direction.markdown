@@ -2,7 +2,7 @@
 layout: post
 title:  "A new direction"
 date:   2014-02-27 13:21:00
-categories: 
+categories: meta
 comments: true
 ---
 

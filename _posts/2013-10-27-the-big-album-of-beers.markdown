@@ -2,7 +2,7 @@
 layout: post
 title:  "The Big Album of Beers"
 date:   2013-10-27 13:21:00
-categories: 
+categories: beer
 comments: true
 ---
 

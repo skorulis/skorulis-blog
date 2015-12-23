@@ -2,7 +2,7 @@
 layout: post
 title:  "Project Drone: Day 1"
 date:   2014-02-28 16:21:00
-categories: 
+categories: java
 comments: true
 ---
 

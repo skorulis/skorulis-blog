@@ -2,7 +2,7 @@
 layout: post
 title:  "Internet security and Amazon EC2"
 date:   2014-02-26 13:21:00
-categories: 
+categories: AWS
 comments: true
 ---
 

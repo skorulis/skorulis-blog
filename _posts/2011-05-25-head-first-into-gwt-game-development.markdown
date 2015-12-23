@@ -2,7 +2,7 @@
 layout: post
 title:  "Head first into GWT game development"
 date:   2011-05-25 11:48:00
-categories: 
+categories: gwt
 comments: true
 ---
 

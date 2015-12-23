@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting started with libGDX"
 date:   2014-02-27 16:21:00
-categories: 
+categories: java
 comments: true
 ---
 

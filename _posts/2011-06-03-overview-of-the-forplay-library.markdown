@@ -2,7 +2,7 @@
 layout: post
 title:  "Overview of the Forplay Library"
 date:   2011-06-03 13:21:00
-categories: 
+categories: forplay
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "What is really the world’s strongest beer?"
 date:   2013-12-14 13:21:00
-categories: 
+categories: beer
 comments: true
 ---
 

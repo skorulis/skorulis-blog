@@ -2,7 +2,7 @@
 layout: post
 title:  "Generating javadoc"
 date:   2011-06-07 13:21:00
-categories: 
+categories: java
 comments: true
 ---
 
