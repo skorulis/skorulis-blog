@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Project Drone: Day 1"
-date:   2014-02-28 16:21:00
+date:   2014-02-28 11:21:00
 categories: java
 comments: true
 ---
 
-In my [previous post] ({% post_url 2014-02-27-getting-started-with-libgdx %}) I setup a [libgdx] project that rendered a simple model to the screen. The next piece I want to work on is creating some units for my game. I could find someone to help me with the modelling and may do this in the future but I want to be able to do this myself so I can better explain what I need if I decide I want to hire someone to do modelling work.
+In my [previous post] % post_url 2014-02-27-getting-started-with-libgdx % I setup a [libgdx] project that rendered a simple model to the screen. The next piece I want to work on is creating some units for my game. I could find someone to help me with the modelling and may do this in the future but I want to be able to do this myself so I can better explain what I need if I decide I want to hire someone to do modelling work.
 
 Since I know very little about modelling this means spending a lot of time watching tutorials. It’s strange moving into a completely new domain. Usually with programming even when moving to a new language I understand what tools are available so I look for tutorials or examples specific to what I want to accomplish. But doing that here may mean I miss out on something that will make my life easier so it’s back to basics.
 
