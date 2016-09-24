@@ -30,4 +30,4 @@ After lunch there was time for a quick explore. This land holds a lot of signifi
 
 Regrettably I didn't have the time to explore all the way down to the river where I spent many a summers day. It's a journey involving treacherous footing down a rocky cliff path. Perhaps another visit is in order to begin to reclaim the bastion of wilderness from my childhood.
 
-If anyone is more interested in the beer I'm drinking than my daily jaunts I'm working on a post detailing that now. Since I started writing it has turned from 1 beer to 3 so it may take a little time.
+If anyone is more interested in the beer I'm drinking than my daily jaunts I have [another post going through that](/beer/2016/09/24/a-night-for-ipa.html)
